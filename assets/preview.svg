@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Крестики-Нолики preview">
+  <rect width="1200" height="630" fill="#f7f2e8"/>
+  <circle cx="1030" cy="110" r="170" fill="#ff8a5b" opacity="0.18"/>
+  <circle cx="170" cy="520" r="220" fill="#4d9de0" opacity="0.12"/>
+  <rect x="84" y="86" width="1032" height="458" rx="34" fill="#fffdfa" stroke="#e4d8c6" stroke-width="2"/>
+  <text x="120" y="160" fill="#ff8a5b" font-family="Arial, sans-serif" font-size="26" font-weight="700" letter-spacing="2">CLASSIC TIC-TAC-TOE ONLINE</text>
+  <text x="120" y="252" fill="#21303f" font-family="Arial, sans-serif" font-size="68" font-weight="700">Крестики-Нолики</text>
+  <text x="120" y="310" fill="#5d6b77" font-family="Arial, sans-serif" font-size="28">Быстрая партия, знакомая сетка и мгновенный старт в браузере.</text>
+  <rect x="120" y="366" width="176" height="52" rx="26" fill="#4d9de0"/>
+  <text x="208" y="400" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Играть</text>
+  <g transform="translate(760 150)">
+    <rect width="270" height="270" rx="28" fill="#fff8ef" stroke="#dcccb8"/>
+    <g stroke="#21303f" stroke-width="8" stroke-linecap="round">
+      <line x1="90" y1="0" x2="90" y2="270"/>
+      <line x1="180" y1="0" x2="180" y2="270"/>
+      <line x1="0" y1="90" x2="270" y2="90"/>
+      <line x1="0" y1="180" x2="270" y2="180"/>
+    </g>
+    <g stroke-width="10" stroke-linecap="round">
+      <path d="M34 34 L64 64 M64 34 L34 64" stroke="#ff8a5b"/>
+      <circle cx="135" cy="45" r="18" fill="none" stroke="#4d9de0"/>
+      <path d="M124 124 L146 146 M146 124 L124 146" stroke="#ff8a5b"/>
+      <circle cx="225" cy="135" r="18" fill="none" stroke="#4d9de0"/>
+      <path d="M212 212 L238 238 M238 212 L212 238" stroke="#ff8a5b"/>
+    </g>
+  </g>
+  <text x="120" y="492" fill="#8a8b91" font-family="Arial, sans-serif" font-size="22">Live at крестики-нолики.рф</text>
+</svg>
